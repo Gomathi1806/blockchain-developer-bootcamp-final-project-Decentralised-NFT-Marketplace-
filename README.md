@@ -4,7 +4,6 @@
 
 The chain ID should be 1337. If you have a localhost rpc set up, you may need to overwrite it.
 
-![MetaMask RPC Import](wallet.png)
 
 #### Local setup
 
