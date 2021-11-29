@@ -11,12 +11,12 @@ To run this project locally, follow these steps.
 
 1. Clone the project locally, change into the directory, and install the dependencies:
 
-git clone 
+git clone: 
 
 install using NPM or Yarn
+
 npm install
 
-# or
 
 yarn
 ```
