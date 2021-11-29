@@ -42,3 +42,6 @@ The project will run in local. local host: 3000
 Note: I have created .secret file to store the privatekey and created fundtion for project id.
 used polygon
 
+
+My ether wallet address to recieve the certificate as NFTs
+Ether address : 0x74d1Fc02Bf8166dD97dE4d1659DE9c3eaF6f0D02 
