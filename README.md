@@ -17,7 +17,6 @@ install using NPM or Yarn
 
 npm install
 
-
 yarn
 ```
 2. Start the local Hardhat node
@@ -39,9 +38,18 @@ npm run dev
 ```
 The project will run in local. local host: 3000
 
+5. Testing the app
+
+To run the tests please use the below commands to build the project and run the tests
+
+```shell
+npm install
+npx hardhat test
+```
+
 Note: I have created .secret file to store the privatekey and created fundtion for project id.
 used polygon
 
-
 My ether wallet address to recieve the certificate as NFTs
 Ether address : 0x74d1Fc02Bf8166dD97dE4d1659DE9c3eaF6f0D02 
+
